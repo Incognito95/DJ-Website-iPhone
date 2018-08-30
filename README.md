@@ -1,1 +1,2 @@
-# DJ-Website-iPhone
+# DJ-Website
+This is my DJ portfolio
